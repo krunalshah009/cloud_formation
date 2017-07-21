@@ -48,7 +48,7 @@
                     "Ref" : "CIDR"
                 },
                 "InstanceTenancy" : "default",
-                "EnableDnsSupport" : "true",
+                "EnableDnsSupport" : "false",
                 "EnableDnsHostnames" : "true",
                 "Tags"               : [
                     {
